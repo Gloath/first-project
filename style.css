@@ -1,0 +1,18 @@
+.nav-bg{
+    background-color: darkgrey;
+}
+.avatar-container{
+    background-color: wheat;
+}
+.about-container{
+    background-color: wheat;
+}
+.footer-container{
+    background-color: darkgrey;
+}
+a{
+    color: wheat !important;
+}
+a:hover{
+    color:yellow !important;
+}
